@@ -17,7 +17,6 @@ Screenshots
 <img src="https://github.com/ahmadzuh/image-before-after/blob/master/screenshot/screenshot1.gif" alt="Login" width="200dp" height="400dp">          
 <img src="https://github.com/ahmadzuh/image-before-after/blob/master/screenshot/screenshot2.gif" alt="Detail Blog" width="200dp" height="400dp">
 <img src="https://github.com/ahmadzuh/image-before-after/blob/master/screenshot/screenshot3.gif" alt="Detail Blog" width="200dp" height="400dp">
-<img src="https://github.com/ahmadzuh/WisataJambi/blob/master/screenshot/Screenshot_20190915-085416.png" alt="Detail Blog" width="200dp" height="400dp">
 </p>
 
 ## Mulai
