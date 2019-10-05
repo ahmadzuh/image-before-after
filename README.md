@@ -1,16 +1,34 @@
 # image_slider
 
-A new Flutter project.
+Sebelum Anda Melanjutkan
+------
+* Aplikasi ini masih dalam tahap pengembangan sehingga terdapat Bug atau beberapa Error.<br>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Deskripsi
+---------
+Aplikasi Image Slider Before-After adalah Aplikasi Image slider yang menggunakan Library https://pub.dev/packages/before_after#-readme-tab- menampilkan Gambar Sebelum dan Sesudah.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Screenshots
+----------
+* **Home**<br>
+<p float="left">
+<img src="https://github.com/ahmadzuh/image-before-after/blob/master/screenshot/screenshot1.gif" alt="Login" width="200dp" height="400dp">          
+<img src="https://github.com/ahmadzuh/image-before-after/blob/master/screenshot/screenshot2.gif" alt="Detail Blog" width="200dp" height="400dp">
+<img src="https://github.com/ahmadzuh/image-before-after/blob/master/screenshot/screenshot3.gif" alt="Detail Blog" width="200dp" height="400dp">
+<img src="https://github.com/ahmadzuh/WisataJambi/blob/master/screenshot/Screenshot_20190915-085416.png" alt="Detail Blog" width="200dp" height="400dp">
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Mulai
+
+Proyek ini adalah titik awal untuk aplikasi Flutter.
+
+Beberapa sumber daya untuk memulai jika ini adalah proyek Flutter pertama Anda:
+
+- [Lab: Tulis aplikasi Flutter pertama Anda](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Sampel Flutter yang berguna](https://flutter.dev/docs/cookbook)
+
+Untuk bantuan memulai dengan Flutter, lihat lebih lanjut
+[dokumentasi online](https://flutter.dev/docs), yang menawarkan tutorial,
+sampel, panduan pengembangan seluler, dan referensi API lengkap.
